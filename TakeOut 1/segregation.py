@@ -2,7 +2,7 @@
 """
 Author - Jigyasa Singh
 Take Out 1 - Facial Expression/Emotion Detection
-This program focuses on cleaning the Fer2013 CSV file by removing rendundant data and segregating the emotions into 7 emotions :
+This program focuses on cleaning the Fer2013 CSV file by removing rendundant data and segregating the emotions into 7 categories :
 'Angry', 'Disgust','Fear', 'Happy', 'Sad', 'Surprise', 'Neutral'
 
 """
