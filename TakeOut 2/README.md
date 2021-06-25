@@ -1,5 +1,5 @@
 
-# Pupil-Iris-Detection
+# Pupil & Iris Detection
 
 ## Description
 This project focuses on Pupil and Iris detection using Canny Edge Detection in videos.\
