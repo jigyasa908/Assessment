@@ -6,7 +6,7 @@ This project focuses on Pupil and Iris detection using Canny Edge Detection in v
 It makes use of OpenCV-python with its built-in functionalities.
 
 ## Data
-The program Detection.py makes use Eye-Video.mov file as an input which is avaiable here https://drive.google.com/file/d/1_Je8h0i6fMAwfdNQo9q9Mvi8DT946SsA/view?usp=sharing or the video can be downloaded from the directory.\
+The program Detection.py makes use Eye-Video.mov file as an input which is available here https://drive.google.com/file/d/1_Je8h0i6fMAwfdNQo9q9Mvi8DT946SsA/view?usp=sharing or the video can be downloaded from the directory.\
 Change the video file path according to particular system path.
 
 ## Detection Process
