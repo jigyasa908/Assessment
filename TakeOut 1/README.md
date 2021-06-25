@@ -28,6 +28,7 @@ This program focuses on cleaning the fer2013 CSV file by removing rendundant dat
 ```python
 python Segregation.py
 ```
+![](Segregation%20Chart.png)
 ## The CNN Model
 Install the required libraries, edit the CSV file path according to your system file path and run the Model.py file.\
 Training takes a while to complete, but it can be sped up by using GPU options.
